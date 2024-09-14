@@ -17,6 +17,7 @@ I'm currently expanding my knowledge and skills in:
 - Flutter
 - JavaScript
 - TypeScript
+- React
 - React Native
 - Nest JS
 - Data Structures and Algorithms
