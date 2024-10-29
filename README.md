@@ -31,6 +31,6 @@ You can reach me through:
 
 - GitHub: [@michellebentulan](https://github.com/michellebentulan) 
 - Email: [michellebentulan7@gmail.com]
-- LinkedIn: <div href="https://ph.linkedin.com/in/michelle-bentulan-a03914313?trk=profile-badge">Michelle Bentulan</a></div>
-
+- LinkedIn: [Michelle Bentulan](https://www.linkedin.com/in/michelle-dupa-bentulan/)
+- 
 Feel free to connect, and let's learn and explore the world of coding together! 😊
