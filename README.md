@@ -7,7 +7,7 @@ I'm a computer science student with a passion for programming, prototyping, and 
 - Web Development
 - Mobile App Development
 - Open Source Projects
-- Prototyping Web and App Design
+- Prototyping Web and App Design (Figma)
 
 ## 🌱 I’m currently learning
 
